@@ -1,5 +1,4 @@
-# IL GENERE SECONDO UN LLM
-Come un Large Language Model attribuisce un genere a partire da descrizioni professionali
+# IL GENERE SECONDO UN LLM: Come un Large Language Model attribuisce un genere a partire da descrizioni professionali
 
 1. DOMANDA DI RICERCA
 
