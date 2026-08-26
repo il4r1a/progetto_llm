@@ -1,4 +1,6 @@
-# progetto_bias_llm
+# IL GENERE SECONDO UN LLM
+Come un Large Language Model attribuisce un genere a partire da descrizioni professionali
+
 1. DOMANDA DI RICERCA
 
 I modelli linguistici di grandi dimensioni apprendono le proprie associazioni statistiche da enormi quantità di testo prodotto da esseri umani. Questo testo contiene, inevitabilmente, gli stereotipi sociali presenti nella cultura in cui è stato scritto — inclusi quelli di genere legati alle professioni. Quando un modello viene interrogato su una persona descritta solo tramite la propria attività lavorativa, tende quindi a produrre un’associazione di genere anche in assenza di qualunque informazione reale sul genere di quella persona.
